@@ -1,3 +1,6 @@
+
+*DRAFT* - The bellow CoC is not yet in force. Stay tuned...we'll post on Slack when its done. 
+
 # Code of Conduct 
 
 The New Zealand Data Science (NZDS) Slack Community is dedicated to providing a harassment-free experience 
